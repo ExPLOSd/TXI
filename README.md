@@ -11,9 +11,10 @@ https://github.com/Xstar97/TXI/issues/new
 
 ___________________
 #side note
-This tool wouldn't be possible WITHOUT the ground breaking work of rovo89 the creator of xposed install and Tungstwenty who modified it to work on lollipop+ devices.
-rovo89-
-Tungswenty-
+This tool wouldn't be possible WITHOUT the ground breaking work of rovo89 the creator of xposed installer and Tungstwenty who modified it to work on lollipop+ devices.
+rovo89-http://forum.xda-developers.com/member.php?u=4419114
+
+Tungswenty-http://forum.xda-developers.com/member.php?u=4322181
 
 #donate
 Since this app is based off the work of amazing developers...
