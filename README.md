@@ -1,8 +1,8 @@
 # Terminal Installer: Xposed
 
-If by any chance my Terminal Installer tool goes rogue or doesn't even work please SUMBIT an issue on here & give as much detail what happen before, during, & after the process.
+If by any chance Terminal Installer goes rogue or doesn't even work please SUMBIT an issue on here & give as much detail what happen before, during, & after the process.
 
-This way I can replicate the problem & fix it ASAP.
+This way I can replicate the issue & fix it ASAP.
 
 ###Resources
 to create an issue click the link below!
