@@ -1,7 +1,6 @@
-# TXI
-Terminal Xposed Installer
+# Terminal Installer: Xposed
 
-If by any chance my TXI tool app goes rogue or doesn't even work please SUMBIT an issue on here & give as much detail what happen before, during, & after the process.
+If by any chance my Terminal Installer tool goes rogue or doesn't even work please SUMBIT an issue on here & give as much detail what happen before, during, & after the process.
 
 This way I can replicate the problem & fix it ASAP.
 
@@ -11,7 +10,7 @@ to create an issue click the link below!
 https://github.com/Xstar97/TXI/issues/new
 
 ___________________
-#side note
+#side notes
 This tool wouldn't be possible WITHOUT the ground breaking work of rovo89 the creator of xposed installer and Tungstwenty who modified it to work on lollipop+ devices.
 
 rovo89-http://forum.xda-developers.com/member.php?u=4419114
