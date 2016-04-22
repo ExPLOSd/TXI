@@ -1,47 +1,48 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
-
+    <meta charset="UTF-8">
     <title>Terminal Installer: xposed by Xstar97</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
   </head>
-
   <body>
+    <section class="page-header">
+      <h1 class="project-name">Terminal Installer: xposed</h1>
+      <h2 class="project-tagline">Yet Another Terminal Installer!</h2>
+      <a href="https://github.com/Xstar97/TXI" class="btn">View on GitHub</a>
+      <a href="https://github.com/Xstar97/TXI/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/Xstar97/TXI/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
 
-    <header>
-      <div class="container">
-        <h1>Terminal Installer: xposed</h1>
-        <h2>Terminal Installer: xposed</h2>
-
-        <section id="downloads">
-          <a href="https://github.com/Xstar97/TXI/zipball/master" class="btn">Download as .zip</a>
-          <a href="https://github.com/Xstar97/TXI/tarball/master" class="btn">Download as .tar.gz</a>
-          <a href="https://github.com/Xstar97/TXI" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
-
-    <div class="container">
-      <section id="main_content">
-        <h3>
+    <section class="main-content">
+      <h3>
 <a id="welcome-to-terminal-installer-xposed" class="anchor" href="#welcome-to-terminal-installer-xposed" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Welcome to Terminal Installer: Xposed</h3>
 
 <h3>
-<a id="the-story-life-without-xposed" class="anchor" href="#the-story-life-without-xposed" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>The story: Life without Xposed!</h3>
+<a id="the-story-why-i-created-terminal-installer-xposed" class="anchor" href="#the-story-why-i-created-terminal-installer-xposed" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>The story: Why I created Terminal Installer: Xposed</h3>
 
-<p>Ever since I rooted my first android device &amp; stumbled upon xposed installer....I FELL in love with technology all over again...Yet years later when lollipop &amp; even marshmallow came out...it was getting harder &amp; harder to flash my newer devices with the xposed framework until every DAMN device that I bought either didn't have a custom recovery nor could one flash it!</p>
+<p>Ever since I rooted my first android device &amp; stumbled upon xposed installer....I FELL in love with technology all over again...Yet after lollipop &amp; even marshmallow came out...it was getting harder &amp; harder to flash my newer devices with the xposed framework until every DAMN device that I bought either didn't have a custom recovery nor could one flash it!</p>
 
-<p>However in the midst of all that HELL...I finally found an alterative &amp; even a safe way to flash the xposed framework for devices that are Lollipop+ &amp; do NOT have a custom recovery!</p>
+<p>HOWEVER in the midst of all that HELL...I finally found an alterative &amp; even a safe way to install the xposed framework!</p>
 
 <h3>
 <a id="terminal-installer-was-borned" class="anchor" href="#terminal-installer-was-borned" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Terminal Installer was borned!</h3>
 
 <p>This tool can &amp; WILL install the latest version of the xposed framework on any compatible device without a recovery if sporting Lollipop+ &amp; either have "arm," "arm64," or "x86" as its ABI.</p>
+
+<h3>
+<a id="incompatible-devices-list" class="anchor" href="#incompatible-devices-list" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Incompatible devices list:</h3>
+
+<ol>
+<li>All SAMSUNG devices</li>
+<li>Non-arm or non-arm64 or non-x86 devices</li>
+<li>a certain Dell Venue 8 7840(probably more)
+4.some stock Sony roms...however ALL Sony devices will be blocked from flashing xposed until the fatal bootloop is fixed!</li>
+</ol>
 
 <h3>
 <a id="side-notes" class="anchor" href="#side-notes" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Side Note(s)</h3>
@@ -50,14 +51,9 @@
 All it does is execute a script in a terminal &amp; that's ALL...nothing special whats so ever, however MANY safety protocals are put in place to make sure the right package is downloaded &amp; finally flashed!</p>
 
 <h2>
-<a id="in-order-for-my-app-to-function-properly--be-responsive" class="anchor" href="#in-order-for-my-app-to-function-properly--be-responsive" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>In order for my app to function properly &amp; be responsive...</h2>
+<a id="in-order-for-my-app-to-function" class="anchor" href="#in-order-for-my-app-to-function" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>In order for my app to function...</h2>
 
-<p>I had to modify all xposed framework packages a bit...No big changes....so updating packages manually for me won't take long to push out continous updates of Terminal Installer </p>
-
-<h3>
-<a id="what-i-learn-from-all-this" class="anchor" href="#what-i-learn-from-all-this" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>What I learn from all this?</h3>
-
-<p>Even though I had to throw away all the experiences that I had in developing android apps out the window &amp; start fresh because of all the changes to material design guildlines &amp; code optimization...however I did learn java all over again &amp; utilize many new libaries in my app that I will disclose soon...In all honestly it was HELL, but it was fun.</p>
+<p>I modified all xposed framework packages a bit...No big changes....so updating packages manually for me won't take long to push out continuous updates of Terminal Installer: Xposed.</p>
 
 <h3>
 <a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Authors and Contributors</h3>
@@ -65,15 +61,24 @@ All it does is execute a script in a terminal &amp; that's ALL...nothing special
 <p><a href="https://github.com/Xstar97" class="user-mention">@Xstar97</a></p>
 
 <h3>
+<a id="open-source-libraries-utilized" class="anchor" href="#open-source-libraries-utilized" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Open-Source Libraries utilized</h3>
+
+<h3>
 <a id="support-or-troubleshooting" class="anchor" href="#support-or-troubleshooting" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support or troubleshooting?</h3>
 
 <p>Having trouble with Terminal Installer? Submit an issue by clicking <a href="https://github.com/Xstar97/TXI/issues/new">here</a> and we’ll help you sort it out.</p>
 
-<p>If you don't mind...please donate 
+<p>If you don't mind...please donate VIA 
 <a href="paypal.me/xstar97">PayPal</a></p>
-      </section>
-    </div>
 
-    
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/Xstar97/TXI">Terminal Installer: xposed</a> is maintained by <a href="https://github.com/Xstar97">Xstar97</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
   </body>
 </html>
