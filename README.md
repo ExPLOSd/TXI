@@ -11,6 +11,9 @@ https://github.com/Xstar97/TXI/issues/new
 
 ___________________
 #side notes
+
+Please DO NOT flash any files from this repository as they are modified only for Terminal Installer: Xposed...I'm NOT responsible if you don't heed my warning!
+
 This tool wouldn't be possible WITHOUT the ground breaking work of rovo89 the creator of xposed installer and Tungstwenty who modified it to work on lollipop+ devices.
 
 rovo89-http://forum.xda-developers.com/member.php?u=4419114
