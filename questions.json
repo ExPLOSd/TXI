@@ -5,180 +5,80 @@
          "message":"Terminal installer makes it easier than ever to install the Xposed framework on Lollipop+ devices that DO NOT have a custom recovery installed!"
       },
       {
-         "title":"How to: Use Terminal Installer?",
-         "message":""
+         "title":"How to: Operate Terminal Installer?",
+         "message":"If you want to install or uninstall the xposed framework then navigate to 'TXI' from the bottom navigation bar or the navbar & tap on the option you want to utlize!"
       },
       {
          "title":"What is xposed installer?",
-         "message":"Xposed installer is......."
+         "message":"If you honestly do NOT know then here is a summary about xposed installer....All it is just a framework for 'modules' to modify the system to get awesome features that are NOT otherwise available on stock roms"
       },
       {
          "title":"Why does this app request root?",
-         "message":""
+         "message":"You won't believe how many times this was ask...In order to 'flash' the system in my tool you WILL need to grant it root access otherwise the installer/uninstaller script will NOT function!"
       },
       {
          "title":"Do I need a custom recovery to use this tool?",
-         "message":""
+         "message":"The main reason I developed this tool is BECAUSE my LG K7 did not have  custom recovery...so in other words you do NOT need one, but I RECOMMEND to get one ASAP!"
       },
       {
          "title":"Can this brick my device?",
-         "message":""
+         "message":"Any rooted app can brick or even soft-brick a device, but I made sure to block every device that is NOT comptatible with xposed...however the xposed framework could bricked a device if trying to install a incompatible version or on a incompatible device."
       },
       {
          "title":"What devices are supported?",
-         "message":""
+         "message":"Only devices that support arm, arm64, or x86 ABI's....HOWEVER only some Sony and Dell devices are NOT compatible with xposed."
       },
       {
-         "title":"",
-         "message":""
+         "title":"I have a Dell device...How do I know it won't break?",
+         "message":"I written a piece of code to analyze the device...all the test does is check the SDK & runs a script to compare the oat file version to th sdk it suppose to match..."
       },
       {
-         "title":"",
-         "message":""
+         "title":"Will you support Sony devices?",
+         "message":"Not at this time since many reported their Sony devices were bricked & its hard to find ways to block such devices or create a diagnosis test, but once xposed is more stable I will try to offer my full support!"
       },
       {
-         "title":"",
-         "message":""
+         "title":"Will you support Samsung devices?",
+         "message":"At first yes, however I was miss-informed on which devices to block or not support entirely...so until I setup my own invesigation and find reliable information regarding Samsung....then you will just have to wait!"
       },
       {
-         "title":"",
-         "message":""
+         "title":"How do I report any problems?",
+         "message":"If you found any bugs then go to manage & tap report issues OR if the app crashes then when you launch it again a message will ask if you want to report it!"
       },
       {
-         "title":"",
-         "message":""
+         "title":"What is Check XP Installer & reboot?",
+         "message":"All it does is checks the version of xposed installer and if its compatible then you are given the option to reboot your device"
       },
       {
-         "title":"",
-         "message":""
+         "title":"Why do I have to agree to an EULA?",
+         "message":"The possibility of my tool crashing, blowing up, or the possible brick...I will NOT be held liable when you operated this tool since xposed and this app are EXPERIMENTAL any number of scenarios could have bricked your device."
       },
       {
-         "title":"",
-         "message":""
+         "title":"Why collect device info if we report issues?",
+         "message":"Most forget to add such information such as SDK version, manufacturer, etc which are VERY useful when trying to debug & fix issues!"
       },
       {
-         "title":"",
-         "message":""
+         "title":"I do NOT have a github account...can I still report issues?",
+         "message":"When you report issues...just tap the check box thst says I don't have account & I will still receive the issue reported no matter what!"
       },
       {
-         "title":"",
-         "message":""
+         "title":"If I brick my device?",
+         "message":"If you report an issue on github stating you brick your device I will try to help you to restore the device back to normal, but it is NOT guaranteed."
       },
       {
-         "title":"",
-         "message":""
+         "title":"where can I find a compatible version of xposed installer.apk?",
+         "message":"you can find the apk on XDA forum or on xposed website..just do not download & install the experimental version"
       },
       {
-         "title":"",
-         "message":""
+         "title":"Will you support future versions of xposed framework?",
+         "message":"Yes, until it stable enough that terminal installer is not needed anymore or if every device has a custom recovery."
       },
       {
-         "title":"",
-         "message":""
+         "title":"Will you support devices that are incompatible?",
+         "message":"I will try to design ways to combat specific devices that are NOT compatible & release blocks for all manufacturers."
       },
       {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
-      },
-      {
-         "title":"",
-         "message":""
+         "title":"Do you accept donations?",
+         "message":"Yes I do as it is greatly appreciated...I will add in app options to donate soon!"
       }
    ]
 }
