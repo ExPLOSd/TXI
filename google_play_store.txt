@@ -3,8 +3,13 @@ Title: Terminal Installer: Xposed
 Short description: 
 Install the xposed framework WITHOUT a custom recovery!
 
+
 Full description:
-This tool REQURIES ROOT & a compatible device(check at the bottom of this page for devices that are NOT supported)
+This tool ONLY installs the xposed framework & does NOT install xposed installer or any modules from its repository.
+This tool REQUIRES ROOT & a compatible device(check at the bottom of this page for devices that are NOT supported)
+This tool REQUIRES xposed installer 3.0 aplha4 to be installed!
+
+This tool and I will NOT be held responsible to what you do with your device, but if anything happens to it...just report an issue & I will TRY to help you restore your device to working conditions.
 
 What is xposed & why do I want to install it?
 "Xposed is a way to make system-level changes to your Android operating system without installing a custom ROM. All you need is root access."
@@ -57,6 +62,8 @@ Incompatible devices list:
 4. some stock Sony roms seem to have been shipped with corrupted services.odex (the embedded .dex is invalid). Those ROMs will bootloop with a "Fatal signal 6" or "No pending exception expected: java.lang.ArrayIndexOutOfBoundsException" error...check this isssue here...https://github.com/rovo89/Xposed/issues/64
 
 side notes:
+Installing the xposed framework alone does NOT give you any features so you will NEED to install xposed installer which handles the repository of "modules" that you can choose to install from that implements such features.
+
 This tool would NOT have existed WITHOUT the ground breaking work of rovo89 who created xposed & the many who helped made it what it is today!
 
 github website-http://xstar97.github.io/TXI/
