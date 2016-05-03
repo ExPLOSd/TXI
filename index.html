@@ -19,7 +19,9 @@
         <h2>Yet Another Terminal Installer!</h2>
 
         <section id="downloads">
-          <a href="https://github.com/Xstar97/TXI/" class="btn">Download from google play!(Coming Soon!)</a>
+          <a href="https://github.com/Xstar97/TXI/zipball/master" class="btn">Download as .zip</a>
+          <a href="https://github.com/Xstar97/TXI/tarball/master" class="btn">Download as .tar.gz</a>
+          <a href="https://github.com/Xstar97/TXI" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
       </div>
     </header>
@@ -56,10 +58,11 @@
 <a id="incompatible-devices-list" class="anchor" href="#incompatible-devices-list" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Incompatible devices list:</h3>
 
 <ol>
-<li>All SAMSUNG devices</li>
+<li>All SAMSUNG devices-due to Samsung's changes to ART...HOWEVER there are unofficial builds that work around this by deodexing and adjusting the ROM.</li>
 <li>Non-arm or non-arm64 or non-x86 devices</li>
 <li>a certain Dell Venue 8 7840(probably more)</li>
-<li>some stock Sony roms...however ALL Sony devices will be blocked from flashing xposed until the fatal bootloop is fixed!</li>
+<li>some stock Sony roms seem to have been shipped with corrupted services.odex (the embedded .dex is invalid). Those ROMs will bootloop with a "Fatal signal 6" or "No pending exception expected: java.lang.ArrayIndexOutOfBoundsException" error...check this isssue <a href="https://github.com/rovo89/Xposed/issues/64">here</a>
+</li>
 </ol>
 
 <h3>
