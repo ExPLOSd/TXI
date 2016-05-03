@@ -1,0 +1,39 @@
+Title: Terminal Installer: Xposed
+
+Short description: 
+Install the xposed framework WITHOUT a custom recovery!
+
+Full description: 
+What is xposed & why do I want to install it?
+"Xposed is a way to make system-level changes to your Android operating system without installing a custom ROM. All you need is root access."
+-rovo89 (creator)
+Stock android is always missing features & to fill that void (and your heart) xposed was made with love for pure stock android to have custom features otherwise you couldn't have with just stock android!
+
+OKAY! I am HOOKED...
+
+How does one install the xposed framework normally again?
+The "normal" way was to for some devices unlock your bootloader & flash a custom recovery....then download the xposed framework to flash from the custom recovery!
+
+WAIT a minute...my device does NOT have a custom recovery...how can I install the xposed framework now?
+That is NOT a problem anymore...IT'S SIMPLE...just install "Terminal Install: Xposed" & launch the installer & with a few seconds you WILL have the xposed framework installed!
+
+What if it is installed & want to get rid of it for no real reason?
+There's also the miserable option to uninstall the xposed framework too:(
+
+What if my device is NOT compatible with xposed...will it still install the framework anyway?
+ABSOLUTELY NOT! all devices that are NOT compatible will be greeted with a sad message....(basically flipping you off!)
+I worked very hard to make a tool to NEVER brick a device HOWEVER xposed & this tool are VERY experimental & should be regarded with some caution!
+
+I found some issues with Terminal Installer...do I report it here?
+NO! spamming the comments with issues/bug reports makes it harder to track issues & also makes the tool more terrible than it really is..
+So that is why I utilized an awesome library for you to use to send me isssues/bug reports directly within the tool!
+
+I found issues..but I can NOT access Terminal Installer...how do I report issues now?
+If for some reason you can NOT access the tool because of a crash then tap the link below to create an issue directly from your browser! (may need to sign up to github.com)
+https://github.com/Xstar97/TXI/issues/new
+
+If I have a feature request where can I ask it?
+Please do NOT create an issue just for a feature request...but you can checkout my tool's plus page for that & many more @ https://plus.google.com/communities/101286674025561115431
+
+side notes:
+This tool would NOT have existed WITHOUT the ground breaking work of rovo89 & the many who helped made it what it is today!
