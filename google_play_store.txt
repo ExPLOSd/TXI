@@ -64,7 +64,7 @@ Incompatible devices list:
 side notes:
 Installing the xposed framework alone does NOT give you any features so you will NEED to install xposed installer which handles the repository of "modules" that you can choose to install from that implements such features.
 
-This tool would NOT have existed WITHOUT the ground breaking work of rovo89 who created xposed & the many who helped made it what it is today!
+This tool would NOT have existed WITHOUT the ground breaking work of rovo89 who created xposed & made it what it is today!
 
 github website-http://xstar97.github.io/TXI/
 report issues here-https://github.com/Xstar97/TXI/issues/new
