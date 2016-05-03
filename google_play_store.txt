@@ -14,10 +14,23 @@ Stock android is always missing features & to fill that void (and your heart) xp
 OKAY! I am HOOKED...but
 
 How does one install the xposed framework normally again?
-The "normal" way was to for some devices unlock your bootloader & flash a custom recovery....then download the xposed framework to flash from the custom recovery!
+The "normal" way was the following:
 
-WAIT a minute...my device does NOT have a custom recovery...how can I install the xposed framework now?
-That is NOT a problem anymore...IT'S SIMPLE...just install "Terminal Install: Xposed" & launch the installer & with a few seconds you WILL have the xposed framework installed!
+0. Gain root access
+1. Install Busybox
+2. for some devices unlock the bootloader
+3. flash a custom recovery
+4. Download the xposed framework
+5. flash from the custom recovery!
+
+WAIT a minute...that a ton to do..but...my device does NOT have a custom recovery...how can I install the xposed framework now?
+That is NOT a problem anymore...IT'S SIMPLE:
+0. Gain Root access
+1. just install "Terminal Install: Xposed"
+2. launch the installer
+3. a few seconds you WILL have the xposed framework installed!
+
+Three EASY simple steps to have the latest xposed framework installed on your device WITHOUT the hassle!
 
 What if it is installed & want to get rid of it for no real reason?
 There's also the miserable option to uninstall the xposed framework too:(
