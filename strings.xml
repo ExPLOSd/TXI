@@ -1,0 +1,218 @@
+<resources>
+	
+	<string name="app_name">Terminal Installer: Xposed</string>
+    <string name="action_settings">Settings</string>
+	<string name="donate">Donate</string>
+	<string name="search">Search</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+	
+    <!-- Bottom NAVIGATION -->
+    <string name="about">About</string>
+    <string name="installer">TXI</string>
+    <string name="manage">Manage</string>
+
+	
+	<string name="SOC">Social</string>
+	<string name="fb">Facebook</string>
+	<string name="twit">Twitter</string>
+	<string name="plus">Google+</string>
+	<string name="git">GitHub</string>
+	
+	
+	<!-- Dialogs actions -->
+	<string name="cont">Continue</string>	
+	<string name="cy">Yes</string>
+	<string name="cn">No</string>
+	<string name="canc">Cancel</string>
+	<string name="cpy">Copy stack.trace</string>
+	<string name="anly">Analyze</string>
+	<string name="accept">Accept</string>
+	<string name="decline">Decline</string>
+	<string name="dismiss">Dismiss</string>
+	<string name="exit">Exit</string>
+	
+	<!-- Main Intro -->
+	<string name="main_intro1_title">I just want to say...</string>
+	<string name="main_intro1_message">Thanks for choosing my awesome tool to aide you in the quest to install the xposed framework!</string>
+	<string name="main_intro2_title">A SMALL list of what this tool can do!</string>
+	<string name="main_intro2_message2">I implemented many more features and libraries just for you!</string>
+	<string name="main_intro3_title">How to report issues?</string>
+	<string name="main_intro3_message">In the event If you EVER encounter any errors when operating my tool PLEASE report an issue from within terminal installer by going to manage and tap report issues</string>
+	<string name="main_intro4_title">Side Notes</string>
+	<string name="main_intro4_message2">Please continue with SOME caution when installing the xposed framework!</string>
+	
+	
+	<!-- TXI -->
+	<string name="frwrk">Framework</string>
+	<string name="installed1">Xposed installed</string>
+	<string name="installed2">Xposed Framework is already installed...however if you are updating the framework please uninstall the previous version and then install the latest version</string>
+	<string name="unin">Uninstall Framework</string>
+	<string name="RVxpuninstall">Xposed Framework is NOT installed....</string>
+	<string name="latestver">Latest framework version: 84</string>
+	<string name="samlatestver">Latest framework version: 84</string>
+	<string name="currver">Current version installed: 84</string>
+	<string name="notinstalled">xposed framework is not installed!</string>
+	<string name="ODxpfw">xposed framework is outdated!</string>
+	<string name="xpinst">Install Xposed Framework</string>
+	<string name="xpuninst">Uninstall Xposed Framework</string>
+	<string name="rebootop">Reboot options</string>
+	<string name="reboot1">Reboot device(root)</string>
+	<string name="rebxposed">Check XP Installer and reboot</string>
+	<string name="reboot2">Please reboot the device...the xposed framework was successfully installed!</string>
+	<string name="reboot3">Please do NOT reboot the device...the xposed framework was NOT successfully installed!</string>
+	<string name="reb3">Reboot</string>
+	
+	<!-- manage -->
+	<string name="sup">Support</string>
+	<string name="clear">Clear Data</string>
+	<string name="datacl">Data has been cleared!</string>
+	<string name="reissue">Report issues</string>
+	<string name="nodl">Nothing to delete!</string>
+	<string name="del">Deleting...</string>
+	<string name="snackerror">Error</string>
+	<string name="errorcon">Continue</string>
+
+	
+	<!-- Download -->
+	<string name="uin">Uninstall</string>
+	<string name="inst">Install</string>
+	<string name="dialog_DL">Downloading...</string>
+	<string name="dialog_UZ">Unzipping...</string>
+	
+	<string name="folders">Directories created!</string>
+	<string name="folders2">No Directories need to be created!</string>
+	
+	<!-- CRASH -->
+	<string name="crash">Warning: TXI recently crashed!</string>
+	<string name="crash2">Would you like to report it?</string>
+
+	
+    <!-- GScriptAdd -->
+	<string name="exec">Execute Script</string>
+	<string name="su">SU is Enabled</string>
+	<string name="su2">Warning: SU is NOT enabled!</string>
+	<string name="sdk21arm">v84 sdk21 arm installer</string>
+	<string name="sdk21arm64">v84 sdk21 arm64 installer</string>
+	<string name="sdk21x86">v84 sdk21 x86 installer</string>
+	<string name="sdk22arm">v84 sdk22 arm installer</string>
+	<string name="sdk22arm64">v84 sdk22 arm64 installer</string>
+	<string name="sdk22x86">v84 sdk22 x86 installer</string>
+	<string name="sdk23arm">v84 sdk23 arm installer</string>
+	<string name="sdk23arm64">v84 sdk23 arm64 installer</string>
+	<string name="sdk23x86">v84 sdk23 x86 installer</string>
+	<string name="frwkname">Framework name</string>
+	<string name="frwkinscript">Framework installer script</string>
+	<string name="frwkuninscript">Framework uninstaller script</string>
+
+	
+    <!-- UNGScriptAdd -->
+	<string name="cpuv7">ARM uninstaller</string>
+	<string name="cpu64">ARM64 uninstaller</string>
+	<string name="cpux86">X86 uninstaller</string>
+
+	
+	<!-- stackdialog -->
+	<string name="stack1">Stack.trace found!</string>
+	<string name="stack2">Please tap copy stack.trace and paste in the describe your issues so it will be easier to fix the issue(s)!</string>
+
+	<!-- Tamper Dialog -->
+	<string name="tamper_title">Warning: script Tampering detected!</string>
+	<string name="tamper_message">To keep the integrity of your device you may NOT modify any part of the scripts in ANY way as it WILL bricked your device if ANY further attempts of modification are made!</string>
+	<string name="tampdel">Removing tampered data!</string>
+		
+	
+	<!-- Donate dialog -->
+	<string name="donate_message">I put a lot of effort into this tool and I am glad that I did...however if you would like to donate that would mean so much to me!</string>
+	<string name="PayPal">PayPal</string>
+	<string name="PP">http://www.paypal.me/xstar97</string>
+	<string name="BitCoin">BitCoin</string>
+	<string name="BC">3LFJdRKrVWjYAChad9TnHjHfZnc7BBaVtL</string>
+	
+    <!-- Permissions -->
+	<string name="perm">My Permissions</string>
+	<string name="perm_message">The following permissions MUST be granted to continue...</string>
+	<string name="permission1">Can you grant me...Internet and access network state?</string>
+	<string name="permission2">Can you grant me...Read and Write external storage?</string>
+	<string name="permission3">Can you grant me...WakeLock permission?</string>
+	<string name="granted">Permission Granted!</string>
+	
+	
+	<!-- Xposed version -->
+	<string name="xper">xposed installer checker</string>
+	<string name="incompxpver">Xposed installer\'s version is NOT compatible!</string>
+	<string name="compxpver">Xposed installer\'s version is Compatible!</string>
+	<string name="xpver2">Install xposed installer</string>
+	<string name="xpver3">Reboot Now!</string>
+	<string name="xpapkdlerror">ERROR: xposed installer is NOT Installed!</string>
+	
+	<!-- Dell Analyasis-->
+	<string name="delana_title">Analyze Dell device</string>
+	<string name="delana_message">Some Dell devices are shipped with a non standard version of ART that is somewhere between 5.1 and 6.0 which obviously isnt supported by Xposed...can I test your device against its compatibility with xposed?</string>
+	<string name="dell_script_arm">oatdump --oat-file=/system/framework/arm/boot.oat</string>
+	<string name="dell_script_arm64">oatdump --oat-file=/system/framework/arm64/boot.oat</string>
+	<string name="dell_script_x86">oatdump --oat-file=/system/framework/x86/boot.oat</string>
+	<string name="dellcompat">Dell Compatiblity Checker</string>
+	<string name="dellsucess">Dell Device may be compatible...continue with extreme caution!</string>
+	<string name="dellnosuc">Dell device is NOT compatible!</string>
+	
+	<!-- Supported devices -->
+	<string name="sup_title">Device Supported!</string>
+	<string name="sup_message">This device was previously blocked from installing xposed framwework...however analysis state that your device is in indeed compatible!</string>
+	
+	<!-- Not Supported devices -->
+	<string name="NST">Not compatible!</string>
+	<string name="NS">This device is NOT supported!</string>
+	
+	<!-- Samsung -->
+	<string name="Warn">Warning!</string>
+	<string name="SamS">Detected a Samsung device this is a risky experimental option...do you wish to continue?</string>
+	
+	
+	<!-- eula -->
+	<string name="eula">License Agreement</string>
+	<string name="eula_string">EULA:
+
+		\nCopyright 2016 Terminal Installer. All Rights Reserved.
+
+		\n\nThis software may not, in whole or in any part, be copied, reproduced, transmitted, natural or computer), stored in a retrieval system, reduced to any electronic medium or machine readable
+		format, or by any other form or means without prior consent, in writing, from Terminal Installer.
+
+		\n\nYou are granted a limited license to use this software. The software may be used or copied only in accordance
+		with the terms of that license, which is described in the following paragraphs.
+
+		\n\nLICENSE:
+		\n\n\"THE SOFTWARE\" shall be taken to mean the software contained in this app and any subsequent versions
+		or upgrades received as a result of having installed this app. \"USER\" shall be taken as the original
+		user of the software.
+
+		\n\nUser has the non-exclusive right to the use of software only on COMPATIBLE devices. User may not electronically
+		alter the program for non-compatible devices. user may not distribute copies
+		of the software or the accompanying documentation to others either for a fee or without charge. user may not modify
+		the program or documentation. User may not disassemble the program or allow it to be disassembled
+		into its constituent source code. User\'s use of the software indicates his/her acceptance of these terms
+		and conditions. If user does not agree to these conditions, uninstall the software from the device,
+		and erase the software from any and all storage devices upon which it may have been installed.
+
+		\n\nThis license agreement shall be governed by the laws of The United States of America, New Jersey and
+		shall inure to the benefit of Terminal Installer or its assigns.
+
+		\n\nDISCLAIMER / LIMITATION OF LIABILITY:
+		\n\nUser acknowledges that the software may not be free from defects and may not satisfy all of user\'s
+		needs. Terminal Installer warrants all media on which the software is distributed to be free from defects
+		in normal use. The software and any accompanying written materials are licensed \"AS IS\". user\'s exclusive
+		remedy during the warranty period (if any) shall consist of replacement of distribution media if determined to be
+		faulty. In no event will Terminal Installer be liable for direct, indirect, incidental or consequential damage or
+		damages resulting from loss of use, or loss of anticipated profits resulting from any defect in the software,
+		even if it has been advised of the possibility of such damage. Some laws do not allow exclusion or limitation
+		of implied warranties or liabilities for incidental or consequential damages, so the above limitations or
+		exclusion may not apply.
+
+		\n\nSPECIFIC RESTRICTIONS:
+		\n\nIn accordance with the COMPUTER SOFTWARE RENTAL ACT OF 1990, this software may not be rented, lent or leased.
+		\n\nThe software and accompanying documentation may not be provided by a \"Backup Service\" or any other vendor
+		which does not provide an original package as composed of Terminal Installer, including but not limited to all original
+		distribution media, documentation, registration cards, and insertions.</string>
+		
+</resources>
