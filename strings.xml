@@ -89,7 +89,7 @@
 	<string name="crash2">Would you like to report it?</string>
 
 	
-    <!-- GScriptAdd -->
+    <!-- ScriptAdd -->
 	<string name="exec">Execute Script</string>
 	<string name="su">SU is Enabled</string>
 	<string name="su2">Warning: SU is NOT enabled!</string>
@@ -107,7 +107,7 @@
 	<string name="frwkuninscript">Framework uninstaller script</string>
 
 	
-    <!-- UNGScriptAdd -->
+    <!-- UNScriptAdd -->
 	<string name="cpuv7">ARM uninstaller</string>
 	<string name="cpu64">ARM64 uninstaller</string>
 	<string name="cpux86">X86 uninstaller</string>
@@ -123,12 +123,10 @@
 	<string name="tampdel">Removing tampered data!</string>
 		
 	
-	<!-- Donate dialog -->
-	<string name="donate_message">I put a lot of effort into this tool and I am glad that I did...however if you would like to donate that would mean so much to me!</string>
+	<!-- Donate -->
 	<string name="PayPal">PayPal</string>
 	<string name="PP">http://www.paypal.me/xstar97</string>
 	<string name="BitCoin">BitCoin</string>
-	<string name="BC">3LFJdRKrVWjYAChad9TnHjHfZnc7BBaVtL</string>
 	
     <!-- Permissions -->
 	<string name="perm">My Permissions</string>
@@ -147,16 +145,6 @@
 	<string name="xpver3">Reboot Now!</string>
 	<string name="xpapkdlerror">ERROR: xposed installer is NOT Installed!</string>
 	
-	<!-- Dell Analyasis-->
-	<string name="delana_title">Analyze Dell device</string>
-	<string name="delana_message">Some Dell devices are shipped with a non standard version of ART that is somewhere between 5.1 and 6.0 which obviously isnt supported by Xposed...can I test your device against its compatibility with xposed?</string>
-	<string name="dell_script_arm">oatdump --oat-file=/system/framework/arm/boot.oat</string>
-	<string name="dell_script_arm64">oatdump --oat-file=/system/framework/arm64/boot.oat</string>
-	<string name="dell_script_x86">oatdump --oat-file=/system/framework/x86/boot.oat</string>
-	<string name="dellcompat">Dell Compatiblity Checker</string>
-	<string name="dellsucess">Dell Device may be compatible...continue with extreme caution!</string>
-	<string name="dellnosuc">Dell device is NOT compatible!</string>
-	
 	<!-- Supported devices -->
 	<string name="sup_title">Device Supported!</string>
 	<string name="sup_message">This device was previously blocked from installing xposed framwework...however analysis state that your device is in indeed compatible!</string>
@@ -164,10 +152,6 @@
 	<!-- Not Supported devices -->
 	<string name="NST">Not compatible!</string>
 	<string name="NS">This device is NOT supported!</string>
-	
-	<!-- Samsung -->
-	<string name="Warn">Warning!</string>
-	<string name="SamS">Detected a Samsung device this is a risky experimental option...do you wish to continue?</string>
 	
 	
 	<!-- eula -->
