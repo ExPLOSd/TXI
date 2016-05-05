@@ -1,104 +1,84 @@
 {
-"questions": [
-{
-"title": "¿Qué es el instalador terminal?",
-"message": "instalador Terminal hace que sea más fácil que nunca para instalar el marco Xposed en dispositivos Lollipop + que no tienen instalada una recuperación personalizada!"
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-"title": "",
-"message": ""
-}.
-]
+   "questions":[
+      {
+         "title":"¿Cuál es terminal Installer?",
+         "message":"Terminal instalador hace que sea más fácil que nunca para instalar el marco Xposed en dispositivos Lollipop + que no tienen instalada una recuperación personalizada!"
+      },
+      {
+         "title":"Cómo Operar Terminal instalador?",
+         "message":"Si se desea instalar o desinstalar el marco Xposed continuación, vaya a 'TXI' desde la barra de navegación inferior o la barra de navegación y toque en la opción que desea utlize!"
+      },
+      {
+         "title":"¿Qué es xposed installer?",
+         "message":"Si honestamente no sabe entonces aquí es un resumen sobre el instalador Xposed .... Todo es sólo un marco de 'módulos' para modificar el sistema para obtener características impresionantes que de otro modo no disponibles en roms de valores"
+      },
+      {
+         "title":"¿Por qué hace esto de raíz solicitud de aplicación",
+         "message":"Usted no creería cuántas veces este fue pedir ... Con el fin de 'flash' del sistema en mi herramienta que necesitará para permitirle el acceso de la raíz de lo contrario el script de instalación / desinstalación no funcionará!"
+      },
+      {
+         "title":"¿Necesito una recuperación personalizada para utilizar esta herramienta?",
+         "message":"La razón principal por la que he desarrollado esta herramienta se debe a mi LG K7 no tenía recuperación personalizada ... por lo que en otras palabras, usted no necesita uno, pero lo recomiendo para conseguir uno lo antes posible!"
+      },
+      {
+         "title":"Can this brick my device?",
+         "message":"Any rooted app can brick or even soft-brick a device, but I made sure to block every device that is NOT comptatible with xposed...however the xposed framework could bricked a device if trying to install a incompatible version or on a incompatible device."
+      },
+      {
+         "title":"What devices are supported?",
+         "message":"Only devices that support arm, arm64, or x86 ABI's....HOWEVER only some Sony and Dell devices are NOT compatible with xposed."
+      },
+      {
+         "title":"I have a Dell device...How do I know it won't break?",
+         "message":"I written a piece of code to analyze the device...all the test does is check the SDK & runs a script to compare the oat file version to th sdk it suppose to match..."
+      },
+      {
+         "title":"Will you support Sony devices?",
+         "message":"Not at this time since many reported their Sony devices were bricked & its hard to find ways to block such devices or create a diagnosis test, but once xposed is more stable I will try to offer my full support!"
+      },
+      {
+         "title":"Will you support Samsung devices?",
+         "message":"At first yes, however I was miss-informed on which devices to block or not support entirely...so until I setup my own invesigation and find reliable information regarding Samsung....then you will just have to wait!"
+      },
+      {
+         "title":"How do I report any problems?",
+         "message":"If you found any bugs then go to manage & tap report issues OR if the app crashes then when you launch it again a message will ask if you want to report it!"
+      },
+      {
+         "title":"What is Check XP Installer & reboot?",
+         "message":"All it does is checks the version of xposed installer and if its compatible then you are given the option to reboot your device"
+      },
+      {
+         "title":"Why do I have to agree to an EULA?",
+         "message":"The possibility of my tool crashing, blowing up, or the possible brick...I will NOT be held liable when you operated this tool since xposed and this app are EXPERIMENTAL any number of scenarios could have bricked your device."
+      },
+      {
+         "title":"Why collect device info if we report issues?",
+         "message":"Most forget to add such information such as SDK version, manufacturer, etc which are VERY useful when trying to debug & fix issues!"
+      },
+      {
+         "title":"I do NOT have a github account...can I still report issues?",
+         "message":"When you report issues...just tap the check box thst says I don't have account & I will still receive the issue reported no matter what!"
+      },
+      {
+         "title":"If I brick my device?",
+         "message":"If you report an issue on github stating you brick your device I will try to help you to restore the device back to normal, but it is NOT guaranteed."
+      },
+      {
+         "title":"where can I find a compatible version of xposed installer.apk?",
+         "message":"you can find the apk on XDA forum or on xposed website..just do not download & install the experimental version"
+      },
+      {
+         "title":"Will you support future versions of xposed framework?",
+         "message":"Yes, until it stable enough that terminal installer is not needed anymore or if every device has a custom recovery."
+      },
+      {
+         "title":"Will you support devices that are incompatible?",
+         "message":"I will try to design ways to combat specific devices that are NOT compatible & release blocks for all manufacturers."
+      },
+      {
+         "title":"Do you accept donations?",
+         "message":"Yes I do as it is greatly appreciated...I will add in app options to donate soon!"
+      }
+   ]
 }
