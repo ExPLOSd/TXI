@@ -1,84 +1,84 @@
 {
    "questions":[
       {
-         "title":"What is terminal installer?",
-         "message":"Terminal installer makes it easier than ever to install the Xposed framework on Lollipop+ devices that DO NOT have a custom recovery installed!"
+         "title":"Qu'est-ce que le Terminal Installer ?",
+         "message":"Le Terminal Installer rend le plus simplement possible l'instalation du framework Xposed sur les appareils sous Lollipop ou plus qui N'ONT PAS de custom recovery d'installé! "
       },
       {
-         "title":"How to: Operate Terminal Installer?",
-         "message":"If you want to install or uninstall the xposed framework then navigate to 'TXI' from the bottom navigation bar or the navbar & tap on the option you want to utlize!"
+         "title":"Comment: utiliser le Terminal Installer ?",
+         "message":"Si vous souhaitez installer ou désinstaller le framework Xposed allez dans "TXI" dans la barre de navigation en bas ou dans la barre de navigation et choisissez l'option que vous souhaitez utiliser"
       },
       {
-         "title":"What is xposed installer?",
-         "message":"If you honestly do NOT know then here is a summary about xposed installer....All it is just a framework for 'modules' to modify the system to get awesome features that are NOT otherwise available on stock roms"
+         "title":"Qu'est-ce qu'Xposed ?",
+         "message":"Si vous ne savez vraiment pas ce que c'est, voici un petit résumé de ce propose Xposed....C'est juste un outil qui permet de rajouter des "modules", qui permettent de modifier le système en rajoutant de nombreuse fonctionnalitées qui ne sont PAS disponible dans la rom stock"
       },
       {
-         "title":"Why does this app request root?",
-         "message":"You won't believe how many times this was ask...In order to 'flash' the system in my tool you WILL need to grant it root access otherwise the installer/uninstaller script will NOT function!"
+         "title":"Pourquoi cette application requiert le root ?",
+         "message":"Vous ne croirez pas le nombre de fois où cela a été demandé... Afin de "flash" le système, mon outil a besoin d'un accès root sinon le script pour installer / désinstaller ne fonctionnerait PAS!
       },
       {
-         "title":"Do I need a custom recovery to use this tool?",
-         "message":"The main reason I developed this tool is BECAUSE my LG K7 did not have  custom recovery...so in other words you do NOT need one, but I RECOMMEND to get one ASAP!"
+         "title":"Ai-je besoin d'un custom recovery pour l'utiliser ?",
+         "message":"La principale raison pour laquelle j'ai développé cet outils, est que mon LG K7 n'avais pas de custom recovery.. Donc vous n'en avez PAS besoin, mais je vous RECOMMANDE d'en avoir un AU PLUS VITE!"
       },
       {
-         "title":"Can this brick my device?",
-         "message":"Any rooted app can brick or even soft-brick a device, but I made sure to block every device that is NOT comptatible with xposed...however the xposed framework could bricked a device if trying to install a incompatible version or on a incompatible device."
+         "title":"Est-ce que cela peut brick mon appareil ?",
+         "message":"Toute application requierant le root peut brick ou soft-brique un appareil, mais je me suis assuré de bloquer chaque appareil qui ne serait PAS compatible avec Xposed... Cepandant le framework Xposed peut brique un appareil si vous essayez de l'installer avec une version incompatible ou sur un appareil incompatible."
       },
       {
-         "title":"What devices are supported?",
-         "message":"Only devices that support arm, arm64, or x86 ABI's....HOWEVER only some Sony and Dell devices are NOT compatible with xposed."
+         "title":"Quels appareils sont supportés ?",
+         "message":"Seul les appareils supportant arm, arm64, ou x86 ABI's....Cependant, quelques appareils Sony ou Dell ne sont pas compatible avec Xposed."
       },
       {
-         "title":"I have a Dell device...How do I know it won't break?",
-         "message":"I written a piece of code to analyze the device...all the test does is check the SDK & runs a script to compare the oat file version to th sdk it suppose to match..."
+         "title":"J'ai un appareil Dell...Comment être sur qu'il fonctionnera toujours ?",
+         "message":"J'écrit un morceau de code pour analyser l'appareil... Tout le test constiste à vérifier le SDK et un scrip est lancé pour comparer la version du fichier au SDK qu'il est supposé correspondre..."
       },
       {
-         "title":"Will you support Sony devices?",
-         "message":"Not at this time since many reported their Sony devices were bricked & its hard to find ways to block such devices or create a diagnosis test, but once xposed is more stable I will try to offer my full support!"
+         "title":"Allez-vous rendre compatible les appareils Sony ?",
+         "message":"Pas pour l'instant car beaucoup d'appareils SONY ont été brick et il est difficile de bloquer ses appareils ou de créer un test, mais dès qu'Xposed sera plus stable je ne vous oublierais pas!"
       },
       {
-         "title":"Will you support Samsung devices?",
-         "message":"At first yes, however I was miss-informed on which devices to block or not support entirely...so until I setup my own invesigation and find reliable information regarding Samsung....then you will just have to wait!"
+         "title":"Allez-vous rendre compatible les appareils Samsung",
+         "message":"D'abord oui, J'ai été mal informé sur les appareils qui ne sont pas prit en charge entièrement...Je suis entrain de faire ma propre investigation pour trouver des informations fiables concernant Samsung...Vous n'avez juste qu'à attendre!"
       },
       {
-         "title":"How do I report any problems?",
-         "message":"If you found any bugs then go to manage & tap report issues OR if the app crashes then when you launch it again a message will ask if you want to report it!"
+         "title":"Comment signaler des problèmes ?",
+         "message":"Si vous avez trouvé des bugs, allez dans "gérer" puis "Comment signaler les problèmes?" OU si l'aaplication crash, une faois relancée un message vous dempandera si vous souhaitez signaler ce problème!"
       },
       {
-         "title":"What is Check XP Installer & reboot?",
-         "message":"All it does is checks the version of xposed installer and if its compatible then you are given the option to reboot your device"
+         "title":"Qu'est ce que Vérification XP Installer & Redémarrer ? "
+         "message":"Cela vérifie votre version d'Xposed et si c'est compatible, et un option de redémarrage vous est proposé"
       },
       {
-         "title":"Why do I have to agree to an EULA?",
-         "message":"The possibility of my tool crashing, blowing up, or the possible brick...I will NOT be held liable when you operated this tool since xposed and this app are EXPERIMENTAL any number of scenarios could have bricked your device."
+         "title":"Pourquoi dois-je accepter EULA ?",
+         "message":"La possibilité que l'outils crash ou bloque est plausible... Je ne serais PAS tenu responsable lorque vous utilisez cet outil pour Xposed car cette application est encore EXPERIMENTALE et qu'un certain nombre de sénarios peuvent brique votre appareil."
       },
       {
-         "title":"Why collect device info if we report issues?",
-         "message":"Most forget to add such information such as SDK version, manufacturer, etc which are VERY useful when trying to debug & fix issues!"
+         "title":"Pourquoi receuillir les informations de mon appareil si je reporte un problème ?",
+         "message":"La plupart des personnes oublient d'ajouter de telles information telles que la verion du SDK, le fabriquant; etc..  Qui sont très utiles lorques vous essayez de résoudre les problèmes et de débuger!"
       },
       {
-         "title":"I do NOT have a github account...can I still report issues?",
-         "message":"When you report issues...just tap the check box thst says I don't have account & I will still receive the issue reported no matter what!"
+         "title":"Je ne dispose PAS d'un compte Github.. Puis-je signaler les problèmes ?",
+         "message":"Lorsque vous signalez des problèmes appuyez simplement sur le boutons pour valider et je recevrais vos information et votre problème!"
       },
       {
-         "title":"If I brick my device?",
-         "message":"If you report an issue on github stating you brick your device I will try to help you to restore the device back to normal, but it is NOT guaranteed."
+         "title":"Si je brique mon appareil ?",
+         "message":"Si vous signalez un problème sur Github, déclarant que votre appareil est brique, je vais essayer de vous aider a restaurer votre appareil , mais RIEN n'est garanti !."
       },
       {
-         "title":"where can I find a compatible version of xposed installer.apk?",
-         "message":"you can find the apk on XDA forum or on xposed website..just do not download & install the experimental version"
+         "title":"Où puis-je trouver une version compatible de xposedinstaller.apk ?",
+         "message":"Vous pouvez trouver l'apk sur le site officiel de XDA Dévelloper, ne téléharger pas le script mais juste la version expérimentale."
       },
       {
-         "title":"Will you support future versions of xposed framework?",
-         "message":"Yes, until it stable enough that terminal installer is not needed anymore or if every device has a custom recovery."
+         "title":"Allez-vous soutenir les futures versions du framework d'Xposed?",
+         "message":"Oui, jusqu'à que ce que cet outils d'instalation soit asser stable ou que chaque appareil dispose d'un custom recovery."
       },
       {
-         "title":"Will you support devices that are incompatible?",
-         "message":"I will try to design ways to combat specific devices that are NOT compatible & release blocks for all manufacturers."
+         "title":"Allez vous soutenir les appareils incompatibles ?",
+         "message":"Je vais essayer de concevoir des moyens de lutter contre les appareils incompatibles."
       },
       {
-         "title":"Do you accept donations?",
-         "message":"Yes I do as it is greatly appreciated...I will add in app options to donate soon!"
+         "title":"Acceptez vous les donations?",
+         "message":"Oui, ce sera très apprécié.. Je vais bientôt ajouter cette possibilité dans les options d'application!"
       }
    ]
 }
