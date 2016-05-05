@@ -9,9 +9,9 @@
 
 	
     <!-- Bottom NAVIGATION -->
-    <string name="about">About</string>
+    <string name="about">A propos</string>
     <string name="installer">TXI</string>
-    <string name="manage">Manage</string>
+    <string name="manage">Outils</string>
 
 	
 	<string name="SOC">Social</string>
@@ -22,15 +22,15 @@
 	
 	
 	<!-- Dialogs actions -->
-	<string name="cont">Continue</string>	
-	<string name="cy">Yes</string>
-	<string name="cn">No</string>
-	<string name="canc">Cancel</string>
-	<string name="cpy">Copy stack.trace</string>
-	<string name="anly">Analyze</string>
-	<string name="accept">Accept</string>
-	<string name="decline">Decline</string>
-	<string name="dismiss">Dismiss</string>
+	<string name="cont">Continuer</string>	
+	<string name="cy">Oui</string>
+	<string name="cn">Non</string>
+	<string name="canc">Retour</string>
+	<string name="cpy">Copie stack.trace</string>
+	<string name="anly">Analise</string>
+	<string name="accept">Accepter</string>
+	<string name="decline">Refuser</string>
+	<string name="dismiss">Annuler</string>
 	<string name="exit">Exit</string>
 	
 	<!-- Main Intro -->
@@ -76,17 +76,17 @@
 
 	
 	<!-- Download -->
-	<string name="uin">Uninstall</string>
-	<string name="inst">Install</string>
-	<string name="dialog_DL">Downloading...</string>
+	<string name="uin">Désinstaller</string>
+	<string name="inst">Installer</string>
+	<string name="dialog_DL">Téléchargement...</string>
 	<string name="dialog_UZ">Unzipping...</string>
 	
-	<string name="folders">Directories created!</string>
-	<string name="folders2">No Directories need to be created!</string>
+	<string name="folders">Emplacement créer!</string>
+	<string name="folders2">Pas d'emplacement requie!</string>
 	
 	<!-- CRASH -->
-	<string name="crash">Warning: TXI recently crashed!</string>
-	<string name="crash2">Would you like to report it?</string>
+	<string name="crash">Attention: TXI a récement crasher!</string>
+	<string name="crash2">Voulez vous signaler ce problème?</string>
 
 	
     <!-- ScriptAdd -->
@@ -150,8 +150,8 @@
 	<string name="sup_message">This device was previously blocked from installing xposed framwework...however analysis state that your device is in indeed compatible!</string>
 	
 	<!-- Not Supported devices -->
-	<string name="NST">Not compatible!</string>
-	<string name="NS">This device is NOT supported!</string>
+	<string name="NST">Incompatible!</string>
+	<string name="NS">Appareil NON supporter!</string>
 	
 	
 	<!-- eula -->
