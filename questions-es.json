@@ -1,84 +1,84 @@
 {
-   "questions": [
-      {
-         "title": "¿Qué es el instalador terminal?",
-         "message": "instalador Terminal hace que sea más fácil que nunca para instalar el marco Xposed en dispositivos Lollipop + que no tienen instalada una recuperación personalizada!"
-      },
-      {
-         "title": "Cómo Operar Terminal instalador?",
-         "message": "Si se desea instalar o desinstalar el marco Xposed continuación, vaya a 'TXI' desde la barra de navegación inferior o la barra de navegación y toque en la opción que desea utlize!"
-      },
-      {
-         "title": "¿Qué es el instalador Xposed?",
-         "message": "Si honestamente no sabe entonces aquí es un resumen sobre el instalador Xposed .... Todo es sólo un marco de" módulos "para modificar el sistema para obtener características impresionantes que de otro modo no disponibles en roms de valores"
-      },
-      {
-         "title": "¿Por qué hace esto de raíz solicitud de aplicación",
-         "message": "Usted no creería cuántas veces este fue pedir ... Con el fin de" flash "del sistema en mi herramienta que necesitará para permitirle el acceso de la raíz de lo contrario el script de instalación / desinstalación no funcionará!"
-      },
-      {
-         "title": "¿Necesito una recuperación personalizada para utilizar esta herramienta?",
-         "message": "La razón principal por la que he desarrollado esta herramienta se debe a mi LG K7 no tenía recuperación personalizada ... por lo que en otras palabras, usted no necesita uno, pero lo recomiendo para conseguir uno lo antes posible!"
-      },
-      {
-         "title": "? ¿Puede este ladrillo mi dispositivo",
-         "message": "Cualquier aplicación puede arraigada de ladrillo o incluso suave de ladrillo de un dispositivo, pero se aseguró de bloquear todos los dispositivos que NO está comptatible con Xposed ... sin embargo el marco Xposed podría tapiada un dispositivo si se intenta instalar una versión incompatible o en un dispositivo incompatible ".
-      },
-      {
-         "title": "¿Qué dispositivos son compatibles?",
-         "message": "Sólo los dispositivos que soportan el brazo, arm64, o x86 de ABI .... sin embargo, sólo algunos de los dispositivos de Sony y Dell no son compatibles con Xposed."
-      },
-      {
-         "title": "Tengo un dispositivo Dell ... ¿Cómo sé que no va a romper?",
-         "message": "he escrito una pieza de código para analizar el dispositivo ... toda la prueba no es comprobar el SDK y ejecuta un script para comparar la versión del archivo de avena a th SDK se supone que debe coincidir ..."
-      },
-      {
-         "title": "¿Va a apoyar los dispositivos de Sony?",
-         "message": "No en este momento, ya que muchos informó de sus dispositivos de Sony fueron tapiadas y es difícil de encontrar maneras de bloquear dichos dispositivos o crear una prueba de diagnóstico, pero una vez XPOSED es más estable voy a tratar de ofrecer mi apoyo!"
-      },
-      {
-         "title": "¿Va a apoyar los dispositivos de Samsung?",
-         "message": "Al principio sí, sin embargo, se me informó miss-en el que los dispositivos para bloquear o no apoyar por completo ... así hasta que mi propia configuración invesigation y búsqueda de información confiable con respecto a Samsung .... entonces usted sólo tendrá que ¡Espere!"
-      },
-      {
-         "title": "¿Cómo puedo informar de cualquier problema?",
-         "message": "Si has encontrado algún error y luego ir a gestionar y reporte del grifo cuestiones o si la aplicación se bloquea entonces cuando se lanza de nuevo un mensaje le preguntará si desea informar de ello!"
-      },
-      {
-         "title": "¿Qué es XP Verificar instalador y reiniciar?",
-         "message": "Todo lo que hace es comprueba la versión del instalador Xposed y si es compatible, entonces se les da la opción de reiniciar el dispositivo"
-      },
-      {
-         "title": "¿Por qué tengo que estar de acuerdo con una EULA?",
-         "message": "La posibilidad de estrellarse mi herramienta, voladura, o la posible ladrillo ... NO se hace responsable cuando se utiliza esta herramienta desde Xposed y esta aplicación son experimentales cualquier número de escenarios podría haber ladrillo su dispositivo. "
-      },
-      {
-         "title": "¿Por qué recopilar información del dispositivo si nos informan de problemas",
-         "mensaje": "La mayoría se olvida de añadir dicha información como la versión del SDK, fabricante, etc, que son muy útiles cuando se trata de depurar y solucionar problemas!"
-      },
-      {
-         "title": "No tengo una cuenta de GitHub ... ¿puedo informar de problemas?",
-         "message": "Cuando informa de los problemas ... solo toque en la casilla de verificación dice thst no tengo cuenta y todavía voy a recibir el problema reportado no importa qué!"
-      },
-      {
-         "title": "Si yo ladrillo dispositivo?",
-         "message": "Si informa de un problema en github que indica el dispositivo de ladrillo voy a tratar de ayudarle a restaurar el dispositivo vuelva a la normalidad, pero no está garantizada."
-      },
-      {
-         "title": "¿dónde puedo encontrar una versión compatible de installer.apk Xposed?",
-         "message": "se puede encontrar el apk en el foro de XDA o en website..just Xposed no descargar e instalar la versión experimental"
-      },
-      {
-         "title": "¿Va a apoyar las futuras versiones del marco Xposed?",
-         "message": "Sí, hasta que se lo suficientemente estable que el instalador no terminal se necesita más o si cada dispositivo tiene una recuperación personalizada."
-      },
-      {
-         "title": "¿Va a apoyar a los dispositivos que son incompatibles?",
-         "message": "Voy a tratar de diseñar formas de combatir los dispositivos específicos que no son compatibles y liberan bloques para todos los fabricantes."
-      },
-      {
-         "title": "¿Acepta donaciones?",
-         "message": "Sí yo, ya que es muy apreciada ... voy a añadir en las opciones de aplicaciones para donar pronto!"
-      }
-   ]
+"questions": [
+{
+"title": "¿Qué es el instalador terminal?",
+"message": "instalador Terminal hace que sea más fácil que nunca para instalar el marco Xposed en dispositivos Lollipop + que no tienen instalada una recuperación personalizada!"
+},
+{
+"title": "Cómo Operar Terminal instalador?",
+"message": "Si se desea instalar o desinstalar el marco Xposed continuación, vaya a 'TXI' desde la barra de navegación inferior o la barra de navegación y toque en la opción que desea utlize!"
+},
+{
+"title": "¿Qué es el instalador Xposed?",
+"message": "Si honestamente no sabe entonces aquí es un resumen sobre el instalador Xposed .... Todo es sólo un marco de" módulos "para modificar el sistema para obtener características impresionantes que de otro modo no disponibles en roms de valores"
+},
+{
+"title": "¿Por qué hace esto de raíz solicitud de aplicación",
+"message": "Usted no creería cuántas veces este fue pedir ... Con el fin de" flash "del sistema en mi herramienta que necesitará para permitirle el acceso de la raíz de lo contrario el script de instalación / desinstalación no funcionará!"
+},
+{
+"title": "¿Necesito una recuperación personalizada para utilizar esta herramienta?",
+"message": "La razón principal por la que he desarrollado esta herramienta se debe a mi LG K7 no tenía recuperación personalizada ... por lo que en otras palabras, usted no necesita uno, pero lo recomiendo para conseguir uno lo antes posible!"
+},
+{
+"title": "? ¿Puede este ladrillo mi dispositivo",
+"message": "Cualquier aplicación puede arraigada de ladrillo o incluso suave de ladrillo de un dispositivo, pero se aseguró de bloquear todos los dispositivos que NO está comptatible con Xposed ... sin embargo el marco Xposed podría tapiada un dispositivo si se intenta instalar una versión incompatible o en un dispositivo incompatible ".
+},
+{
+"title": "¿Qué dispositivos son compatibles?",
+"message": "Sólo los dispositivos que soportan el brazo, arm64, o x86 de ABI .... sin embargo, sólo algunos de los dispositivos de Sony y Dell no son compatibles con Xposed."
+},
+{
+"title": "Tengo un dispositivo Dell ... ¿Cómo sé que no va a romper?",
+"message": "he escrito una pieza de código para analizar el dispositivo ... toda la prueba no es comprobar el SDK y ejecuta un script para comparar la versión del archivo de avena a th SDK se supone que debe coincidir ..."
+},
+{
+"title": "¿Va a apoyar los dispositivos de Sony?",
+"message": "No en este momento, ya que muchos informó de sus dispositivos de Sony fueron tapiadas y es difícil de encontrar maneras de bloquear dichos dispositivos o crear una prueba de diagnóstico, pero una vez XPOSED es más estable voy a tratar de ofrecer mi apoyo!"
+},
+{
+"title": "¿Va a apoyar los dispositivos de Samsung?",
+"message": "Al principio sí, sin embargo, se me informó miss-en el que los dispositivos para bloquear o no apoyar por completo ... así hasta que mi propia configuración invesigation y búsqueda de información confiable con respecto a Samsung .... entonces usted sólo tendrá que ¡Espere!"
+},
+{
+"title": "¿Cómo puedo informar de cualquier problema?",
+"message": "Si has encontrado algún error y luego ir a gestionar y reporte del grifo cuestiones o si la aplicación se bloquea entonces cuando se lanza de nuevo un mensaje le preguntará si desea informar de ello!"
+},
+{
+"title": "¿Qué es XP Verificar instalador y reiniciar?",
+"message": "Todo lo que hace es comprueba la versión del instalador Xposed y si es compatible, entonces se les da la opción de reiniciar el dispositivo"
+},
+{
+"title": "¿Por qué tengo que estar de acuerdo con una EULA?",
+"message": "La posibilidad de estrellarse mi herramienta, voladura, o la posible ladrillo ... NO se hace responsable cuando se utiliza esta herramienta desde Xposed y esta aplicación son experimentales cualquier número de escenarios podría haber ladrillo su dispositivo. "
+},
+{
+"title": "¿Por qué recopilar información del dispositivo si nos informan de problemas",
+"message": "La mayoría se olvida de añadir dicha información como la versión del SDK, fabricante, etc, que son muy útiles cuando se trata de depurar y solucionar problemas!"
+},
+{
+"title": "No tengo una cuenta de GitHub ... ¿puedo informar de problemas?",
+"message": "Cuando informa de los problemas ... solo toque en la casilla de verificación dice thst no tengo cuenta y todavía voy a recibir el problema reportado no importa qué!"
+},
+{
+"title": "Si yo ladrillo dispositivo?",
+"message": "Si informa de un problema en github que indica el dispositivo de ladrillo voy a tratar de ayudarle a restaurar el dispositivo vuelva a la normalidad, pero no está garantizada."
+},
+{
+"title": "¿dónde puedo encontrar una versión compatible de installer.apk Xposed?",
+"message": "se puede encontrar el apk en el foro de XDA o en website..just Xposed no descargar e instalar la versión experimental"
+},
+{
+"title": "¿Va a apoyar las futuras versiones del marco Xposed?",
+"message": "Sí, hasta que se lo suficientemente estable que el instalador no terminal se necesita más o si cada dispositivo tiene una recuperación personalizada."
+},
+{
+"title": "¿Va a apoyar a los dispositivos que son incompatibles?",
+"message": "Voy a tratar de diseñar formas de combatir los dispositivos específicos que no son compatibles y liberan bloques para todos los fabricantes."
+},
+{
+"title": "¿Acepta donaciones?",
+"message": "Sí yo, ya que es muy apreciada ... voy a añadir en las opciones de aplicaciones para donar pronto!"
+}
+]
 }
