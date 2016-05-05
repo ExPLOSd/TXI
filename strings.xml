@@ -34,14 +34,15 @@
 	<string name="exit">Exit</string>
 	
 	<!-- Main Intro -->
-	<string name="main_intro1_title">I just want to say...</string>
-	<string name="main_intro1_message">Thanks for choosing my awesome tool to aide you in the quest to install the xposed framework!</string>
-	<string name="main_intro2_title">A SMALL list of what this tool can do!</string>
-	<string name="main_intro2_message2">I implemented many more features and libraries just for you!</string>
-	<string name="main_intro3_title">How to report issues?</string>
-	<string name="main_intro3_message">In the event If you EVER encounter any errors when operating my tool PLEASE report an issue from within terminal installer by going to manage and tap report issues</string>
-	<string name="main_intro4_title">Side Notes</string>
-	<string name="main_intro4_message2">Please continue with SOME caution when installing the xposed framework!</string>
+	<string name="main_intro1_title">Je voudrais just te dire...</string>
+	<string name="main_intro1_message">Merci d'avoir choisi mon merveilleux outil pour vous aider dans vôtre quete pour installer le framework d'Xposed!</string>
+	<string name="main_intro2_title">Une petite liste de ce que cet outil peut faire!</string>
+	<string name="main_intro2_message2">J'ai mis en œuvre de nombreuses autres fonctionnalités et des rubriques pour vous!</string>
+	<string name="main_intro3_title">Comment signaler les problèmes?</string>
+	<string name="main_intro3_message">Dans le cas où vous rencontreriez des erreurs lors de l'ouverture de mon outil. S'IL VOUS PLAÎT signalez ce problème en allant dans "Gérer" puis dans "signaler un problème"
+</string>
+	<string name="main_intro4_title">Remarques</string>
+	<string name="main_intro4_message2">S'il vous plaît continuer avec prudence l'ors de l'installation d'Xposed</string>
 	
 	
 	<!-- TXI -->
