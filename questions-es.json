@@ -41,44 +41,44 @@
        "message": "Al principio sí, sin embargo, se me informó miss-en el que los dispositivos para bloquear o no apoyar por completo ... así hasta que mi propia configuración invesigation y búsqueda de información confiable con respecto a Samsung .... entonces usted sólo tendrá que ¡Espere!"
       },
       {
-       "Title": "¿Cómo puedo informar de cualquier problema?",
-       "Message": "Si has encontrado algún error y luego ir a gestionar y reporte del grifo cuestiones o si la aplicación se bloquea entonces cuando se lanza de nuevo un mensaje le preguntará si desea informar de ello!"
+       "title": "¿Cómo puedo informar de cualquier problema?",
+       "message": "Si has encontrado algún error y luego ir a gestionar y reporte del grifo cuestiones o si la aplicación se bloquea entonces cuando se lanza de nuevo un mensaje le preguntará si desea informar de ello!"
       },
       {
-       "Title": "¿Qué es XP Verificar instalador y reiniciar?",
-       "Message": "Todo lo que hace es comprueba la versión del instalador Xposed y si es compatible, entonces se les da la opción de reiniciar el dispositivo"
+       "title": "¿Qué es XP Verificar instalador y reiniciar?",
+       "message": "Todo lo que hace es comprueba la versión del instalador Xposed y si es compatible, entonces se les da la opción de reiniciar el dispositivo"
       },
       {
-       "Title": "¿Por qué tengo que estar de acuerdo con una EULA?",
-       "Message": "La posibilidad de estrellarse mi herramienta, voladura, o la posible ladrillo ... NO se hace responsable cuando se utiliza esta herramienta desde Xposed y esta aplicación son experimentales cualquier número de escenarios podría haber ladrillo su dispositivo. "
+       "title": "¿Por qué tengo que estar de acuerdo con una EULA?",
+       "message": "La posibilidad de estrellarse mi herramienta, voladura, o la posible ladrillo ... NO se hace responsable cuando se utiliza esta herramienta desde Xposed y esta aplicación son experimentales cualquier número de escenarios podría haber ladrillo su dispositivo. "
       },
       {
-       "Title": "¿Por qué recopilar información del dispositivo si nos informan de problemas",
-       "Mensaje": "La mayoría se olvida de añadir dicha información como la versión del SDK, fabricante, etc, que son muy útiles cuando se trata de depurar y solucionar problemas!"
+       "title": "¿Por qué recopilar información del dispositivo si nos informan de problemas",
+       "mensaje": "La mayoría se olvida de añadir dicha información como la versión del SDK, fabricante, etc, que son muy útiles cuando se trata de depurar y solucionar problemas!"
       },
       {
-       "Title": "No tengo una cuenta de GitHub ... ¿puedo informar de problemas?",
-       "Message": "Cuando informa de los problemas ... solo toque en la casilla de verificación dice thst no tengo cuenta y todavía voy a recibir el problema reportado no importa qué!"
+       "title": "No tengo una cuenta de GitHub ... ¿puedo informar de problemas?",
+       "message": "Cuando informa de los problemas ... solo toque en la casilla de verificación dice thst no tengo cuenta y todavía voy a recibir el problema reportado no importa qué!"
       },
       {
-       "Title": "Si yo ladrillo dispositivo?",
-       "Message": "Si informa de un problema en github que indica el dispositivo de ladrillo voy a tratar de ayudarle a restaurar el dispositivo vuelva a la normalidad, pero no está garantizada."
+       "title": "Si yo ladrillo dispositivo?",
+       "message": "Si informa de un problema en github que indica el dispositivo de ladrillo voy a tratar de ayudarle a restaurar el dispositivo vuelva a la normalidad, pero no está garantizada."
       },
       {
-       "Title": "¿dónde puedo encontrar una versión compatible de installer.apk Xposed?",
-       "Message": "se puede encontrar el apk en el foro de XDA o en website..just Xposed no descargar e instalar la versión experimental"
+       "title": "¿dónde puedo encontrar una versión compatible de installer.apk Xposed?",
+       "message": "se puede encontrar el apk en el foro de XDA o en website..just Xposed no descargar e instalar la versión experimental"
        },
       {
-       "Title": "¿Va a apoyar las futuras versiones del marco Xposed?",
-       "Message": "Sí, hasta que se lo suficientemente estable que el instalador no terminal se necesita más o si cada dispositivo tiene una recuperación personalizada."
+       "title": "¿Va a apoyar las futuras versiones del marco Xposed?",
+       "message": "Sí, hasta que se lo suficientemente estable que el instalador no terminal se necesita más o si cada dispositivo tiene una recuperación personalizada."
       },
       {
-       "Title": "¿Va a apoyar a los dispositivos que son incompatibles?",
-       "Message": "Voy a tratar de diseñar formas de combatir los dispositivos específicos que no son compatibles y liberan bloques para todos los fabricantes."
+       "title": "¿Va a apoyar a los dispositivos que son incompatibles?",
+       "message": "Voy a tratar de diseñar formas de combatir los dispositivos específicos que no son compatibles y liberan bloques para todos los fabricantes."
       },
       {
-       "Title": "¿Acepta donaciones?",
-       "Message": "Sí yo, ya que es muy apreciada ... voy a añadir en las opciones de aplicaciones para donar pronto!"
+       "title": "¿Acepta donaciones?",
+       "message": "Sí yo, ya que es muy apreciada ... voy a añadir en las opciones de aplicaciones para donar pronto!"
       }
       ]
 }
