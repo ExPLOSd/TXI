@@ -21,64 +21,64 @@
          "message":"La razón principal por la que he desarrollado esta herramienta se debe a mi LG K7 no tenía recuperación personalizada ... por lo que en otras palabras, usted no necesita uno, pero lo recomiendo para conseguir uno lo antes posible!"
       },
       {
-         "title":"Can this brick my device?",
-         "message":"Any rooted app can brick or even soft-brick a device, but I made sure to block every device that is NOT comptatible with xposed...however the xposed framework could bricked a device if trying to install a incompatible version or on a incompatible device."
+         "title": "? ¿Puede este ladrillo mi dispositivo",
+         "message": "Cualquier aplicación puede arraigada de ladrillo o incluso suave de ladrillo de un dispositivo, pero se aseguró de bloquear todos los dispositivos que NO está comptatible con Xposed ... sin embargo el marco Xposed podría tapiada un dispositivo si se intenta instalar una versión incompatible o en un dispositivo incompatible ".
       },
       {
-         "title":"What devices are supported?",
-         "message":"Only devices that support arm, arm64, or x86 ABI's....HOWEVER only some Sony and Dell devices are NOT compatible with xposed."
+       "title": "¿Qué dispositivos son compatibles?",
+       "message": "Sólo los dispositivos que soportan el brazo, arm64, o x86 de ABI .... sin embargo, sólo algunos de los dispositivos de Sony y Dell no son compatibles con Xposed."
       },
       {
-         "title":"I have a Dell device...How do I know it won't break?",
-         "message":"I written a piece of code to analyze the device...all the test does is check the SDK & runs a script to compare the oat file version to th sdk it suppose to match..."
+       "title": "Tengo un dispositivo Dell ... ¿Cómo sé que no va a romper?",
+       "message": "he escrito una pieza de código para analizar el dispositivo ... toda la prueba no es comprobar el SDK y ejecuta un script para comparar la versión del archivo de avena a th SDK se supone que debe coincidir ..."
       },
       {
-         "title":"Will you support Sony devices?",
-         "message":"Not at this time since many reported their Sony devices were bricked & its hard to find ways to block such devices or create a diagnosis test, but once xposed is more stable I will try to offer my full support!"
+       "title": "¿Va a apoyar los dispositivos de Sony?",
+       "message": "No en este momento, ya que muchos informó de sus dispositivos de Sony fueron tapiadas y es difícil de encontrar maneras de bloquear dichos dispositivos o crear una prueba de diagnóstico, pero una vez XPOSED es más estable voy a tratar de ofrecer mi apoyo!"
       },
       {
-         "title":"Will you support Samsung devices?",
-         "message":"At first yes, however I was miss-informed on which devices to block or not support entirely...so until I setup my own invesigation and find reliable information regarding Samsung....then you will just have to wait!"
+       "title": "¿Va a apoyar los dispositivos de Samsung?",
+       "message": "Al principio sí, sin embargo, se me informó miss-en el que los dispositivos para bloquear o no apoyar por completo ... así hasta que mi propia configuración invesigation y búsqueda de información confiable con respecto a Samsung .... entonces usted sólo tendrá que ¡Espere!"
       },
       {
-         "title":"How do I report any problems?",
-         "message":"If you found any bugs then go to manage & tap report issues OR if the app crashes then when you launch it again a message will ask if you want to report it!"
+       "Title": "¿Cómo puedo informar de cualquier problema?",
+       "Message": "Si has encontrado algún error y luego ir a gestionar y reporte del grifo cuestiones o si la aplicación se bloquea entonces cuando se lanza de nuevo un mensaje le preguntará si desea informar de ello!"
       },
       {
-         "title":"What is Check XP Installer & reboot?",
-         "message":"All it does is checks the version of xposed installer and if its compatible then you are given the option to reboot your device"
+       "Title": "¿Qué es XP Verificar instalador y reiniciar?",
+       "Message": "Todo lo que hace es comprueba la versión del instalador Xposed y si es compatible, entonces se les da la opción de reiniciar el dispositivo"
       },
       {
-         "title":"Why do I have to agree to an EULA?",
-         "message":"The possibility of my tool crashing, blowing up, or the possible brick...I will NOT be held liable when you operated this tool since xposed and this app are EXPERIMENTAL any number of scenarios could have bricked your device."
+       "Title": "¿Por qué tengo que estar de acuerdo con una EULA?",
+       "Message": "La posibilidad de estrellarse mi herramienta, voladura, o la posible ladrillo ... NO se hace responsable cuando se utiliza esta herramienta desde Xposed y esta aplicación son experimentales cualquier número de escenarios podría haber ladrillo su dispositivo. "
       },
       {
-         "title":"Why collect device info if we report issues?",
-         "message":"Most forget to add such information such as SDK version, manufacturer, etc which are VERY useful when trying to debug & fix issues!"
+       "Title": "¿Por qué recopilar información del dispositivo si nos informan de problemas",
+       "Mensaje": "La mayoría se olvida de añadir dicha información como la versión del SDK, fabricante, etc, que son muy útiles cuando se trata de depurar y solucionar problemas!"
       },
       {
-         "title":"I do NOT have a github account...can I still report issues?",
-         "message":"When you report issues...just tap the check box thst says I don't have account & I will still receive the issue reported no matter what!"
+       "Title": "No tengo una cuenta de GitHub ... ¿puedo informar de problemas?",
+       "Message": "Cuando informa de los problemas ... solo toque en la casilla de verificación dice thst no tengo cuenta y todavía voy a recibir el problema reportado no importa qué!"
       },
       {
-         "title":"If I brick my device?",
-         "message":"If you report an issue on github stating you brick your device I will try to help you to restore the device back to normal, but it is NOT guaranteed."
+       "Title": "Si yo ladrillo dispositivo?",
+       "Message": "Si informa de un problema en github que indica el dispositivo de ladrillo voy a tratar de ayudarle a restaurar el dispositivo vuelva a la normalidad, pero no está garantizada."
       },
       {
-         "title":"where can I find a compatible version of xposed installer.apk?",
-         "message":"you can find the apk on XDA forum or on xposed website..just do not download & install the experimental version"
+       "Title": "¿dónde puedo encontrar una versión compatible de installer.apk Xposed?",
+       "Message": "se puede encontrar el apk en el foro de XDA o en website..just Xposed no descargar e instalar la versión experimental"
+       },
+      {
+       "Title": "¿Va a apoyar las futuras versiones del marco Xposed?",
+       "Message": "Sí, hasta que se lo suficientemente estable que el instalador no terminal se necesita más o si cada dispositivo tiene una recuperación personalizada."
       },
       {
-         "title":"Will you support future versions of xposed framework?",
-         "message":"Yes, until it stable enough that terminal installer is not needed anymore or if every device has a custom recovery."
+       "Title": "¿Va a apoyar a los dispositivos que son incompatibles?",
+       "Message": "Voy a tratar de diseñar formas de combatir los dispositivos específicos que no son compatibles y liberan bloques para todos los fabricantes."
       },
       {
-         "title":"Will you support devices that are incompatible?",
-         "message":"I will try to design ways to combat specific devices that are NOT compatible & release blocks for all manufacturers."
-      },
-      {
-         "title":"Do you accept donations?",
-         "message":"Yes I do as it is greatly appreciated...I will add in app options to donate soon!"
+       "Title": "¿Acepta donaciones?",
+       "Message": "Sí yo, ya que es muy apreciada ... voy a añadir en las opciones de aplicaciones para donar pronto!"
       }
-   ]
+      ]
 }
